@@ -1,27 +1,53 @@
-# AngularPsnStore
+<p align="center">
+    <img style="height: 500px " src= "https://user-images.githubusercontent.com/98058431/209409845-83a5483b-1619-444d-807d-87e5b8de3f1b.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+</p>
 
-## Development server
+<h1 align="center"> Descrição do Projeto </h1>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+ Projeto desenvolvido com o objetivo de praticar o consumo de API's com Angular, inspiração do layout foi na dribble .
+  
+Para desenvolver esse projeto foi utilizado essas funcionalidades.
+  
+- TypeScript 
+- PokeAPI
+- Angular
+- Node
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  Link para acesso do projeto em produção : https://g4brielbarbosa.github.io/angular-pokedex/
 
-## Running unit tests
+<br>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+<h1 align="center"> Demonstração do Projeto </h1>
 
-## Running end-to-end tests
+<br>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<p align="center">
+  Versão Desktop
+</p>
 
-## Further help
+<br>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/98058431/209003685-ab263031-cb57-41e0-8a39-c95cfd6c5303.gif">
+</p>
+
+
+
+<br>
+
+
+<p align="center">
+  Versão Mobile
+</p>
+
+<br>
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/98058431/209003539-06cb529b-7d1b-486c-a937-57127dd4c397.gif" />
+</p>
