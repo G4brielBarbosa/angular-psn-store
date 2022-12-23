@@ -1,0 +1,76 @@
+{
+  "jogos": [
+    {
+      "gameCover": "assets/ac-cover.jpg",
+      "gameLabel": "Extra | PS4",
+      "gameType": "Assassins Creed® IV Black Flag™",
+      "gamePrice": "R$ 99,99"
+    },
+    {
+      "gameCover": "assets/bt-1.jpg",
+      "gameLabel": "Expansão | PS4",
+      "gameType": "Battlefield™ 1",
+      "gamePrice": "R$ 78,99"
+    },
+    {
+      "gameCover": "assets/bt-4.jpg",
+      "gameLabel": "PS4",
+      "gameType": "Battlefield 4™",
+      "gamePrice": "R$ 99,50"
+    },
+    {
+      "gameCover": "assets/bt-5.jpg",
+      "gameLabel": "PS4",
+      "gameType": "Battlefield™ V",
+      "gamePrice": "R$ 198,99"
+    },
+    {
+      "gameCover": "assets/TheCallistoProtocol.jpg",
+      "gameLabel": "PS4 | PS5 | STANDARD EDITION",
+      "gameType": "The Callisto Protocol™",
+      "gamePrice": "R$ 349,90"
+    },
+    {
+      "gameCover": "assets/fifa-23.webp",
+      "gameLabel": "PS5 | STANDARD EDITION",
+      "gameType": "EA SPORTS™ FIFA 23 Edição Standard para PS5™",
+      "gamePrice": "R$ 338,90"
+    },
+    {
+      "gameCover": "assets/fortnite.webp",
+      "gameLabel": "PS5 | EPIC GAMES",
+      "gameType": "Fortnite",
+      "gamePrice": "Gratuito"
+    },
+    {
+      "gameCover": "assets/call-of-dutty.jpg",
+      "gameLabel": "PS4 | PS5 | CROSS-GEN BUNDLE",
+      "gameType": "Call of Duty®: Modern Warfare® II - Pacote Multigeração",
+      "gamePrice": "R$ 279,65"
+    },
+    {
+      "gameCover": "assets/god-of-war.webp",
+      "gameLabel": "PS4 | PS5 | EDIÇÃO PADRÃO",
+      "gameType": "God of War Ragnarök",
+      "gamePrice": "R$ 349,90"
+    },
+    {
+      "gameCover": "assets/ELDEN-RING.webp",
+      "gameLabel": "PS4 | PS5 | EDIÇÃO PADRÃO",
+      "gameType": "ELDEN RING PS4 & PS5",
+      "gamePrice": "R$ 209,93"
+    },
+    {
+      "gameCover": "assets/The_Last_of_Us_2_capa.png",
+      "gameLabel": "PS4",
+      "gameType": "The Last of Us Part II",
+      "gamePrice": "R$ 49,87"
+    },
+    {
+      "gameCover": "assets/diablo4.jpg",
+      "gameLabel": "PS4 | PS5 | STANDARD",
+      "gameType": "Diablo® IV - Edição Padrão",
+      "gamePrice": "R$ 349,90"
+    }
+  ]
+}
