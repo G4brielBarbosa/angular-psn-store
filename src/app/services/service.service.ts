@@ -10,6 +10,6 @@ export class ServiceService {
   constructor(private http: HttpClient) { }
 
   getGames():Observable<any>{
-    return this.http.get("http://localhost:3000/jogos")
+    return this.http.get("https://my-json-server.typicode.com/G4brielBarbosa/angular-psn-store/jogos")
   }
 }
