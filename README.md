@@ -9,16 +9,16 @@
 <br>
 
 
- Projeto desenvolvido com o objetivo de praticar o consumo de API's com Angular, inspiração do layout foi na dribble .
+ Projeto desenvolvido com o objetivo de praticar o uso de componentes a nível de átomo para facilitar na manutenção do código e para isso utilizei como inspiração o layout da PSN Store.
   
 Para desenvolver esse projeto foi utilizado essas funcionalidades.
   
 - TypeScript 
-- PokeAPI
 - Angular
+- API Local
 - Node
 
-  Link para acesso do projeto em produção : https://g4brielbarbosa.github.io/angular-pokedex/
+  Link para acesso do projeto em produção : https://g4brielbarbosa.github.io/angular-psn-store/
 
 <br>
 
