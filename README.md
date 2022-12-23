@@ -33,21 +33,9 @@ Para desenvolver esse projeto foi utilizado essas funcionalidades.
 <br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/98058431/209003685-ab263031-cb57-41e0-8a39-c95cfd6c5303.gif">
+  <img src="https://user-images.githubusercontent.com/98058431/209411570-ec70a675-5dfe-4cfd-9bd8-42ba5cce15de.webm">
 </p>
-
 
 
 <br>
 
-
-<p align="center">
-  Versão Mobile
-</p>
-
-<br>
-
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/98058431/209003539-06cb529b-7d1b-486c-a937-57127dd4c397.gif" />
-</p>
